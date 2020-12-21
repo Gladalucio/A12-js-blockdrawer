@@ -11,12 +11,5 @@ html {
 }
 
 .big {
-    /*word-spacing: 5em;*/
     font-size: 3em;
 }
-
-#opdrachten {
-    text-align: left;
-    font-style: italic;
-}
-
