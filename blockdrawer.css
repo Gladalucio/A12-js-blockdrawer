@@ -1,0 +1,22 @@
+html {
+    text-align: center;
+    font-size: 1.2em;
+    width: 900px;
+    margin: auto;
+}
+
+#gamescreen {
+    display: block;
+    margin: auto;
+}
+
+.big {
+    /*word-spacing: 5em;*/
+    font-size: 3em;
+}
+
+#opdrachten {
+    text-align: left;
+    font-style: italic;
+}
+
